@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python train_cr.py --lora_r=32 --lr=1e-3 --lora_alpha=32
